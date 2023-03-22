@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ViewPager3</string>
+    <string name="geo">Geoaxborot moduli orqali siz o\'zigizga yaqin bo\'lgan migrantlar va boshqa muassasalar haqida ma\'lumot olishingiz mumkin</string>
+    <string name="todo">TODO</string>
+    <string name="geolocate">GeoLocate</string>
+    <string name="sign_up">Ro\'yxatdan o\'tish</string>
+</resources>
